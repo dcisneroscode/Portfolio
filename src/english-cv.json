@@ -1,0 +1,62 @@
+{
+    "title": "Fullstack Developer",
+    "profile": "I am a passionate software developer with solid experience in creating efficient and scalable solutions to development challenges. My proactive approach allows me to tackle projects with creativity and efficiency. I strive to keep myself updated with the latest",
+    "stack": "Stack of technologies that I manage:",
+    "tecnologies": "Javascript | TypeScript | NodeJS | React | Python | FastAPI | C# | MongoDB | SQL Server",
+    "work experience": [
+        {
+            "title": "NET Developer - Óptica Caroní",
+            "date": "September 2023 - January 2024",
+            "profile": "As a junior .NET developer at Óptica Caroní, I play an essential role contributing to the development of web applications using ASP.NET and C#. My key functions include",
+            "taks": [
+                "Active participation in the development of web applications using ASP.NET and C#.",
+                "Integral participation in all phases of the software development life cycle, from initial planning to implementation and ongoing optimization.",
+                "Efficient support to software in production, developed in Visual Basic and C#, ensuring its stability and performance.", "Efficient support to software in production, developed in Visual Basic and C#, ensuring its stability and performance.",
+                "Management and optimization of databases in SQL Servers to ensure efficient operation of applications."
+            ],
+            "commitment": "My commitment is focused on providing solid and efficient technological solutions, both in the development of new functionalities and in the improvement and maintenance of existing systems."
+        },
+        {
+            "title": "Systems Engineer, Projects and Engineering Alefer. \n Offering service technology to CAF as a customer.",
+            "date": "november 2019 - october 2022",
+            "profile": "In my role as Specialized Technical Support for the client Development Bank of Latin America (CAF) at Alefer, I developed key skills and achieved significant results:",
+            "taks": [{
+                "title":"Design of Technical Solutions:",
+                "task": "I actively participated in the design of technical solutions for clients, developing skills in the development of detailed technical documentation. \n I delivered customized solutions that aligned with the specific needs of the clients."
+            },{
+                "title": "Troubleshooting and Incident Response:",
+                "task": "I attended and resolved incidents on a daily basis, developing solid problem solving skills and effectively managing time to ensure customer satisfaction."
+            },{
+                "title": "Documentation and Recording of Procedures:",
+                "task": "I documented area procedures to maintain a clear and organized record of activities performed. \n I ensured the consistency and quality of team work by providing a structured and transparent framework for operations."
+            },
+            {
+                "title": "Implementation and Configuration of Devices and Equipment:",
+                "task": "I was responsible for the implementation, installation and configuration of devices and equipment, developing technical skills in the handling of tools and technologies in both hardware and software."
+            }
+            ],
+            "commitment": "These experiences strengthened my ability to address technical challenges, manage projects effectively and ensure excellence in customer service."
+        },
+        {
+            "title": "Systems Engineer, MCO Global. \n Providing service technology to CAF as a customer.",
+            "date": "may 2018 - august 2019",
+            "profile": "In my role as a technical support specialist for client CAF (Development Bank of Latin America) at MCO Global, I played a crucial role and achieved remarkable results:",
+            "taks": [{
+                "title":"Technical Assistance and Customer Satisfaction:",
+                "task": "Responsible for providing technical assistance to customers, ensuring their satisfaction at all times."
+            },{
+                "title": "Technical Solutions Design and Documentation:",
+                "task": "I actively participated in the design of technical solutions for clients, excelling in the elaboration of detailed technical documentation. I delivered detailed engineering of the applied solutions, guaranteeing their alignment with the client's needs."
+            },{
+                "title": "Incident Management and Procedures:",
+                "task": "I attended, recorded, monitored and closed incidents, ensuring the correct documentation of area procedures according to established standards."
+            },
+            {
+                "title": "Implementation and Configuration of Devices and Equipment:",
+                "task": "Responsible for the implementation, installation and configuration of devices and equipment, ensuring their correct operation and the optimization of available resources."
+            }
+            ],
+            "commitment": "These experiences consolidated my ability to provide effective technical solutions, efficiently manage incidents and procedures, and optimize the operability of devices and equipment."
+        }
+    ]
+}

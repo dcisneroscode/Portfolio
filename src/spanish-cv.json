@@ -1,0 +1,62 @@
+{
+    "title": "Desarrollador Fullstack",
+    "profile": "Soy un apasionado desarrollador de software con una sólida experiencia en la creación de soluciones eficientes y escalables para desafíos de desarrollo. Mi enfoque proactivo me permite abordar proyectos con creatividad y eficacia. Me esfuerzo por mantenerme actualizado con las últimas tecnologías y tendencias, asegurándome de ofrecer resultados excepcionales",
+    "stack": "Stack de tecnologías que manejo:",
+    "tecnologies": "Javascript | TypeScript | NodeJS | React | Python | FastAPI | C# | MongoDB | SQL Server",
+    "work experience": [
+        {
+            "title": "Desarrollador .NET – Óptica Caroní",
+            "date": "Septiembre 2023 – Enero 2024",
+            "profile": "Como desarrollador junior .NET en Óptica Caroní, desempeño un papel esencial contribuyendo al desarrollo de aplicaciones web mediante ASP.NET y C#. Mis funciones clave incluyen:",
+            "taks": [
+                "Participación activa en el desarrollo de aplicaciones web utilizando ASP.NET y C#.",
+                "Participación integral en todas las fases del ciclo de vida del desarrollo de software, desde la planificación inicial hasta la implementación y optimización continua.",
+                "Soporte eficiente al software en producción, desarrollado en Visual Basic y C#, asegurando su estabilidad y rendimiento.",
+                "Gestión y optimización de bases de datos en SQL Servers para garantizar un funcionamiento eficaz de las aplicaciones."
+            ],
+            "commitment": "Mi compromiso se centra en aportar soluciones tecnológicas sólidas y eficientes, tanto en el desarrollo de nuevas funcionalidades como en la mejora y mantenimiento de sistemas existentes."
+        },
+        {
+            "title": "Ingeniero en Sistemas, Proyectos e Ingeniería Alefer. \n Ofreciendo servicio tecnología a CAF como cliente.",
+            "date": "noviembre 2019 – octubre 2022",
+            "profile": "En mi rol como Soporte Técnico Especializado para el cliente el Banco de Desarrollo de América Latina(CAF) en Alefer, desarrollé habilidades clave y logré resultados significativos:",
+            "taks": [{
+                "title":"Diseño de Soluciones Técnicas:",
+                "task": "Participé activamente en el diseño de soluciones técnicas para clientes, desarrollando habilidades en la elaboración de documentación técnica detallada. \n Entregué soluciones personalizadas que se alinearon con las necesidades específicas de los clientes."
+            },{
+                "title": "Resolución de Problemas y Atención a Incidencias:",
+                "task": "Atendí y resolví incidencias diarias, desarrollando habilidades sólidas en la resolución de problemas y gestionando eficazmente el tiempo para garantizar la satisfacción del cliente."
+            },{
+                "title": "Documentación y Registro de Procedimientos:",
+                "task": "Documenté procedimientos del área para mantener un registro claro y organizado de las actividades realizadas. \n Garanticé la consistencia y calidad del trabajo en equipo al proporcionar un marco estructurado y transparente para las operaciones."
+            },
+            {
+                "title": "Implementación y Configuración de Dispositivos y Equipos:",
+                "task": "Fui responsable de la implementación, instalación y configuración de dispositivos y equipos, desarrollando habilidades técnicas en el manejo de herramientas y tecnologías tanto en hardware como en software."
+            }
+            ],
+            "commitment": "Estas experiencias fortalecieron mi capacidad para abordar desafíos técnicos, gestionar proyectos de manera efectiva y garantizar la excelencia en la atención al cliente."
+        },
+        {
+            "title": "Ingeniero en Sistemas, MCO Global. \n Ofreciendo servicio tecnología a CAF como cliente.",
+            "date": "mayo 2018 - agosto 2019",
+            "profile": "En mi rol como especialista en soporte técnico para el cliente CAF (Banco de Desarrollo de América Latina) en MCO Global, desempeñé un papel crucial y logré resultados notables:",
+            "taks": [{
+                "title":"Asistencia Técnica y Satisfacción del Cliente:",
+                "task": "Responsable de brindar asistencia técnica a clientes, asegurando su satisfacción en todo momento."
+            },{
+                "title": "Diseño de Soluciones Técnicas y Documentación:",
+                "task": "Participé activamente en el diseño de soluciones técnicas para clientes, destacándome en la elaboración de documentación técnica detallada.|\n Entregué ingeniería detallada de las soluciones aplicadas, garantizando su alineación con las necesidades del cliente."
+            },{
+                "title": "Gestión de Incidencias y Procedimientos:",
+                "task": "Atendí, registré, monitoreé y cerré incidencias, asegurando la correcta documentación de procedimientos del área según las normas establecidas."
+            },
+            {
+                "title": "Implementación y Configuración de Dispositivos y Equipos:",
+                "task": "Responsable de la implementación, instalación y configuración de dispositivos y equipos, garantizando su correcto funcionamiento y la optimización de los recursos disponibles."
+            }
+            ],
+            "commitment": "Estas experiencias consolidaron mi capacidad para proporcionar soluciones técnicas efectivas, gestionar eficientemente incidencias y procedimientos, y optimizar la operatividad de dispositivos y equipos."
+        }
+    ]
+}
