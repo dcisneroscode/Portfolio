@@ -1,6 +1,6 @@
 # My Portfolio
 
-My portfolio is a digital canvas that showcases my full-stack development skills. By exploring my passion for creation, I present a range of projects that demonstrate my proficiency in both frontend and backend development. Each line of code represents a step towards innovation. #FullstackDeveloper 🚀
+My portfolio is a digital canvas that showcases my full-stack development skills. By exploring my passion for creation, I present a range of projects that demonstrate my proficiency in both frontend and backend development. Each line of code represents a step towards innovation.
 
 In my portfolio, you'll find a diverse showcase of projects spanning from crafting engaging user interfaces to implementing robust server-side logic. My comprehensive approach as a full-stack developer enables me to tackle challenges from different perspectives and deliver holistic solutions.
 
